@@ -1,0 +1,25 @@
+PERSONAL MINI-TOOLKIT PLAN
+==========================
+
+1. CHOSEN TOOLS (3)
+- Tool 1: Quick To-Do List
+- Tool 2: Pass & Grade Checker
+- Tool 3: Multiplication Table Generator
+
+2. ONE-SENTENCE DESCRIPTIONS
+- Quick To-Do List: Lets the user view, add, or remove tasks in a live task list during the session.
+- Pass & Grade Checker: Takes a numeric score and displays whether the learner passed along with a letter grade.
+- Multiplication Table Generator: Prints the multiplication table from 1 to 12 for any chosen number.
+
+3. EXACT MENU TEXT
+=== Personal Mini-Toolkit ===
+1. Quick To-Do List
+2. Pass & Grade Checker
+3. Multiplication Table Generator
+4. Quit
+
+4. CONCEPTS USED BY EACH TOOL & MENU
+- Main Menu Loop: while loop, if/elif/else routing, invalid choice handling, f-strings.
+- Tool 1 (Quick To-Do List): Python list (add/remove/view), while/for loops, if/elif/else conditionals, f-strings.
+- Tool 2 (Pass & Grade Checker): if/elif/else conditionals, try/except for non-numeric input, f-strings.
+- Tool 3 (Multiplication Table Generator): for loop with range(1, 13), try/except for non-numeric input, f-strings.
